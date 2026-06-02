@@ -1,5 +1,5 @@
 ---
-title: "How did archaeologists determine where Nazca pottery was produced geographically?"
+title: " How did archaeologists determine where Nazca pottery was produced geographically?"
 ---
 
 Archaeologists have determined where Nazca pottery was produced by analyzing the composition of discovered pottery fragments, and cross-referencing it with what is known about modern clay deposits. Analysis techniques have included Instrumental Neutron Activation Analysis (INAA) to reveal elemental composition of excavated ceramic fragments, followed by classifying and comparing that discovered ceramic material with the clay sources in the area today. Distribution of discovered pottery tools is also massively important — from Cahuachi in particular, researchers found evidence of potter's plates and polishing stones, as well as pigments and raw clay, all of which strongly supported the conclusion that it was a ceramic production center of great significance
