@@ -1,5 +1,5 @@
 ---
-title: "How did the role of polychrome vessels change over time in Nazca society? "
+title: "learn more"
 ---
 
 What do different types of birds represent to the Nazca?
