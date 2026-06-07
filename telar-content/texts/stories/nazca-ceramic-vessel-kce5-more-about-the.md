@@ -1,5 +1,5 @@
 ---
-title: "More about the spout!"
+title: "More about the spout"
 ---
 
 
